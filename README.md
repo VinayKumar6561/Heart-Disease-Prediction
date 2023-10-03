@@ -1,2 +1,3 @@
 # Heart-Disease-Prediction
-a Heart Disease Prediction system using Machine Learning with Python
+a Heart Disease Prediction system using Machine Learning with Python.
+Heart disease is a major global health concern and a leading cause of mortality. Early detection and accurate prediction of heart disease risk can significantly improve patient outcomes. This project aims to develop a machine learning model to predict the likelihood of heart disease based on a set of key parameters. The dataset contains various features that are known to be relevant to heart health, including age, sex, chest pain type, blood pressure, cholesterol levels, fasting blood sugar, electrocardiographic results, maximum heart rate, exercise-induced angina, ST depression, the slope of the ST segment, the number of major vessels, and thalassemia status.
